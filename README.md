@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Aplicação To-Do List - Flask & Docker
 
 ## 📑 Visão Geral
@@ -114,5 +113,3 @@ Se você tiver alguma dúvida ou quiser contribuir com o projeto, fique à vonta
 ### ⏭️ Próximos Passos
 
 - **Escalabilidade**: Considerar a migração para um banco de dados mais robusto para ambientes de produção.
-
-```
